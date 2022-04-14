@@ -1,2 +1,2 @@
 ['remote "origin"']
-    url = https://dagshub.com/echo -n "Repo name: "/echo -n "Password: ".dvc
+    url = https://dagshub.com/aliisa/scaling_mlops.dvc
